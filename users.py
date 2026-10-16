@@ -1,3 +1,4 @@
 users: list = [
-    {"name": "Bartosz"}
+    {"name": "Bartosz"},
+    {"name": "Emil"},
 ]
